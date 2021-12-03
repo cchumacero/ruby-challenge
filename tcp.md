@@ -1,0 +1,1 @@
+TCP (Protocolo de Control de Transmisión) es el protocolo de red que permite que dos anfitriones (hosts) se conecten e intercambien flujos de datos, garantizando que la entrega de datos y paquetes sea de manera confiable, sin errores y en el mismo orden que se enviaron.

@@ -1,0 +1,1 @@
+HTTP (Protocolo de Transferencia de Hipertexto) es un protocolo para la transmisión de documentos hipermedia, como HTML. Creado para la comunicación entre navegadores y servidores web, sigue el modelo cliente-servidor donde el cliente establece una conexión realizando una petición a un servidor y espera su respuesta.
